@@ -1,1 +1,1 @@
-ALX Team project/ simple-shell
+ALX team project/ simple-shell
